@@ -89,10 +89,10 @@ The Streamlit application provides a user-friendly interface to upload files, pr
     streamlit run app.py
 2. Access the Application:
 
-- Open your web browser and navigate to http://localhost:8501.
+   - Open your web browser and navigate to http://localhost:8501.
 3. Interface Overview:
 
-- File Upload: Upload an Excel file.
-- Process Button: Process the file using the pre-trained model.
-- Download: Download the processed file with predictions and confidence scores.
+   - File Upload: Upload an Excel file.
+   - Process Button: Process the file using the pre-trained model.
+   - Download: Download the processed file with predictions and confidence scores.
 
