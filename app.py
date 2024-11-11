@@ -10,8 +10,8 @@ import os
 
 
 # Load the pre-trained model and vectorizer
-model = joblib.load("model.pkl")
-vectorizer = joblib.load("embedding_model.pkl")
+model = joblib.load("models/model.pkl")
+vectorizer = joblib.load("models/embedding_model.pkl")
 
 logging.basicConfig(stream=sys.stdout, level=logging. INFO, format='%(asctime)s %(levelname)s:%(message)s')
 logging.info("Model loaded...")

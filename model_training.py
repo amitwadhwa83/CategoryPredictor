@@ -10,7 +10,7 @@ from sklearn.metrics import classification_report, accuracy_score
 import joblib
 
 # Load the data
-data = pd.read_csv("data.csv")
+data = pd.read_csv("data/data.csv")
 
 # Check if required columns are present
 if 'Description' not in data.columns or 'Category' not in data.columns:
@@ -41,7 +41,7 @@ print(classification_report(y_test, y_pred))
 print("Accuracy:", accuracy_score(y_test, y_pred))
 
 # Save the model and embedding model
-joblib.dump(knn, "model.pkl")
-joblib.dump(vectorizer, "embedding_model.pkl")
+joblib.dump(knn, "models/model.pkl")
+joblib.dump(vectorizer, "models/embedding_model.pkl")
 
 print("Model and embedding model saved successfully as 'model.pkl' and 'embedding_model.pkl'.")

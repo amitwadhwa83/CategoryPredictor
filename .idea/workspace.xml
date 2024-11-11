@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1b3e9f35-7f28-46d2-8e15-22a63fca5dfd" name="Changes" comment="Adding files for Streamlit UI app and test data" />
+    <list default="true" id="1b3e9f35-7f28-46d2-8e15-22a63fca5dfd" name="Changes" comment="adding README.md">
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/data.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/embedding_model.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/models/embedding_model.pkl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/models/model.pkl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model_training.py" beforeDir="false" afterPath="$PROJECT_DIR$/model_training.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,31 +28,33 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/amitwadhwa83/CategoryPredictor",
-    "accountId": "634dafed-3d16-4c25-9f2a-fb378894b17e"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/amitwadhwa83/CategoryPredictor&quot;,
+    &quot;accountId&quot;: &quot;634dafed-3d16-4c25-9f2a-fb378894b17e&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2oiQSqtfkWkvyBeH8O1ZdvU10jL" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.UI.executor": "Run",
-    "Python.model_training.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.UI.executor&quot;: &quot;Run&quot;,
+    &quot;Python.model_training.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\amit\PycharmProjects\PredictDescription\models" />
+      <recent name="C:\Users\amit\PycharmProjects\PredictDescription\data" />
       <recent name="C:\Users\amit\PycharmProjects\PredictDescription" />
     </key>
   </component>
@@ -149,6 +159,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit for project" />
     <MESSAGE value="Adding files for Streamlit UI app and test data" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding files for Streamlit UI app and test data" />
+    <MESSAGE value="adding README.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="adding README.md" />
   </component>
 </project>
