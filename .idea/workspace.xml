@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1b3e9f35-7f28-46d2-8e15-22a63fca5dfd" name="Changes" comment="adding missing files">
-      <change afterPath="$PROJECT_DIR$/model_training_sentence_transformer.py" afterDir="false" />
+    <list default="true" id="1b3e9f35-7f28-46d2-8e15-22a63fca5dfd" name="Changes" comment="adding sentence transformer">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/model_training.py" beforeDir="false" afterPath="$PROJECT_DIR$/model_training.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/models/embedding_model.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/models/embedding_model.pkl" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,18 +49,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.UI.executor": "Run",
-    "Python.app (1).executor": "Run",
-    "Python.app.executor": "Run",
-    "Python.model_training.executor": "Run",
-    "Python.model_training_sentence_transformer.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/amit/PycharmProjects/PredictDescription"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.UI.executor&quot;: &quot;Run&quot;,
+    &quot;Python.app (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.app.executor&quot;: &quot;Run&quot;,
+    &quot;Python.model_training.executor&quot;: &quot;Run&quot;,
+    &quot;Python.model_training_sentence_transformer.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/amit/PycharmProjects/PredictDescription&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\amit\PycharmProjects\PredictDescription" />
@@ -166,8 +163,8 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.app (1)" />
-        <item itemvalue="Python.model_training" />
         <item itemvalue="Python.model_training_sentence_transformer" />
+        <item itemvalue="Python.model_training" />
         <item itemvalue="Python.app" />
       </list>
     </recent_temporary>
@@ -220,7 +217,15 @@
       <option name="project" value="LOCAL" />
       <updated>1731355719563</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="adding sentence transformer">
+      <option name="closed" value="true" />
+      <created>1738953899628</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1738953899628</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -240,6 +245,7 @@
     <MESSAGE value="Changing README.md" />
     <MESSAGE value="adding README.md" />
     <MESSAGE value="adding missing files" />
-    <option name="LAST_COMMIT_MESSAGE" value="adding missing files" />
+    <MESSAGE value="adding sentence transformer" />
+    <option name="LAST_COMMIT_MESSAGE" value="adding sentence transformer" />
   </component>
 </project>
